@@ -1,2 +1,2 @@
-# ES6-SPA-Webpack
-ES6, Babel SPA Template based on webpack.
+# Introduction
+Simple ES6 project based SPA Quick starter
